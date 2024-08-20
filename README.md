@@ -7,5 +7,5 @@ Open the index.html file in a web browser.
 You can navigate through the website using the links in the left frame.
 
 # Author
-Written by: Harsha Gampa
+Written by: Harsha Gampa <br/>
 Submitted to: Dr. Anupama Namburu
